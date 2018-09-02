@@ -1,0 +1,12 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\bin\Debug\CSharpRecordSys.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\bin\Debug\CSharpRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\bin\Debug\CSharpRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.csprojResolveAssemblyReference.cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.Properties.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.csproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.Form2.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.Form3.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpRecordSys\CSharpRecordSys\obj\Debug\CSharpRecordSys.Form4.resources
